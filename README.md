@@ -1,1 +1,1 @@
-# gdg-caceres.github.io
+# Lista de proyectos y ponencias del GDG
