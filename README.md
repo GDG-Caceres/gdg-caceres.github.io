@@ -16,4 +16,6 @@ Inspired by the awesome list thing.
 
 [Game of Frameworks](https://carlosazaustre.es/blog/frameworks-de-javascript) by  [Carlos Azaustre](https://twitter.com/carlosazaustre)
 
+[REST con MEAN en 35 min](goo.gl/lOKKND) by  [Borja Godoy](https://twitter.com/gody11)
+
 # GDG Projects
