@@ -14,4 +14,6 @@ Inspired by the awesome list thing.
 
 [Python y bots, todos amigos](https://goo.gl/mwe6QN) by [Jaime Alcantara](https://github.com/Jaime97)
 
+[Game of Frameworks](https://carlosazaustre.es/blog/frameworks-de-javascript) by  [Carlos Azaustre](https://twitter.com/carlosazaustre)
+
 # GDG Projects
