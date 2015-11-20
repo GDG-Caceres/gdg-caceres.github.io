@@ -18,4 +18,11 @@ Inspired by the awesome list thing.
 
 [REST con MEAN en 35 min](goo.gl/lOKKND) by  [Borja Godoy](https://twitter.com/gody11)
 
+[Genera tu librería AAR para Android] (https://drive.google.com/file/d/0B3RgJdTYS2oVSzc4Wkt5ODZ6X0E/view?usp=sharing) by [Ricardo Flores] (https://twitter.com/RCampeador)
+
+[Introducción a Kotlin] (https://slack-files.com/files-pri-safe/T03PPCDJ6-F0ESR6EET/kotlin_for_android_developers_cc.pdf?c=1448049451-338c24af602ca66078701ed9a52ec98a8852eaf8) by [Antonio Leiva] (https://twitter.com/lime_cl)
+
+[Karumi Dojo, TDD Training] (http://www.slideshare.net/PedroVicenteGmezSnch/karumi-dojo-string-calculator-kata) by [Pedro Gómez] (https://twitter.com/pedro_g_s) [Davide Mendolia] (https://twitter.com/davideme)
+
+
 # GDG Projects
