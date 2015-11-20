@@ -1,6 +1,6 @@
 # Awesome GDG Cáceres  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> A curated list of GDG Cáceres's [projects](#articles-slides-talks) and [slides](#gdg-projects).
+> A curated list of GDG Cáceres's [projects](#gdg-projects) and [slides](#articles-slides-talks).
 
 Inspired by the awesome list thing.
 
