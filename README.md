@@ -42,3 +42,5 @@ Inspired by the awesome list thing.
 [CodeWeek landing page](https://github.com/GDG-Caceres/codecc-www)
 
 [Exfest landing page](https://github.com/GDG-Caceres/exfest-www)
+
+### Tech&Ladies projects more information [here](http://techandladies.com)
