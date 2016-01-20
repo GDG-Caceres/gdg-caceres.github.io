@@ -20,9 +20,11 @@ Inspired by the awesome list thing.
 
 [Python y bots, todos amigos](https://goo.gl/mwe6QN) by [Jaime Alcantara](https://github.com/Jaime97)
 
-### Web frameworks
+### Web development
 
 [Game of Frameworks](https://carlosazaustre.es/blog/frameworks-de-javascript) by  [Carlos Azaustre](https://twitter.com/carlosazaustre)
+
+[Introducing the art of Firebase](https://docs.google.com/presentation/d/1XNskpGhsEF7J50mHVMQWfcjLTopqbJKADQyTbOyBsLo/edit?usp=sharing) by [Oscar Caballero](https://github.com/oscarcpozas)
 
 [REST con MEAN en 35 min](goo.gl/lOKKND) by  [Borja Godoy](https://twitter.com/gody11)
 
